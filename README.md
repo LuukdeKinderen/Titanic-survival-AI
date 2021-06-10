@@ -1,0 +1,2 @@
+# Titanic AI
+In this project you will find my implementation of a titanic AI. The AI predicts whether a passenger survived the disaster. A final accuracy score of 83% is a result I can be satisfied with.
